@@ -1,6 +1,6 @@
 # Projeto: Simulador de Conta Bancária / Alura Bank
-# Projeto desenvolvido como desafio do Módulo - Java: Criando sua primeira aplicação.
-# Programa de Formação : Oracle One - Backend.
+Projeto desenvolvido como desafio do Módulo - Java: Criando sua primeira aplicação.
+Programa de Formação : Oracle One - Backend.
 
 ## Descrição
 Este projeto simula um sistema simples de conta bancária em que o usuário pode consultar o saldo, realizar transferências e depósitos. Desenvolvido em Java, o objetivo é oferecer uma interface de linha de comando para simular operações bancárias básicas.
